@@ -1,0 +1,5 @@
+.controller.gc {
+    background: url(Wavebird.png.psd) no-repeat;
+    height: 837px;
+    width: 978px;
+}
